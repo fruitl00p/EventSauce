@@ -71,7 +71,7 @@ The upside to this is that you can now build a number of different ways to view 
 data from the events.
 
 In general, event sourcing is a lot more verbose. You'll often have to introduce
-some additional pieces of infrastructural. It's possible to minimize this initial
+some additional pieces of infrastructure. It's possible to minimize this initial
 investment, but like any trade-off, this comes as a cost.
 
 ## The pay-off
